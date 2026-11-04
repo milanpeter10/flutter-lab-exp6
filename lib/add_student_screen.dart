@@ -229,7 +229,7 @@ class _AddStudentScreenState extends State<AddStudentScreen> {
                             _buildField(
                               controller: _nameController,
                               label: 'Student Name',
-                              hint: 'Abhijith',
+                              hint: 'Milan',
                               icon: Icons.person_outline,
                               validator: _validateName,
                               capitalization: TextCapitalization.words,
@@ -253,7 +253,7 @@ class _AddStudentScreenState extends State<AddStudentScreen> {
                             _buildField(
                               controller: _emailController,
                               label: 'Email Address',
-                              hint: 'e.g. abhijith@gmail.com',
+                              hint: 'e.g. milan@gmail.com',
                               icon: Icons.email_outlined,
                               validator: _validateEmail,
                               keyboardType: TextInputType.emailAddress,
