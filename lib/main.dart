@@ -22,9 +22,9 @@ class StudentRecordApp extends StatelessWidget {
   const StudentRecordApp({super.key});
 
   // Palette: burgundy ink, rose accent, cream paper, gold highlight
-  static const Color primary = Color(0xFF7A1F3D);
-  static const Color accent = Color(0xFFE85D75);
-  static const Color gold = Color(0xFFF2B84B);
+  static const Color primary = Color(0xFF1B5E6B);
+  static const Color accent = Color(0xFFF4845F);
+  static const Color gold = Color(0xFFC8E7A6);
   static const Color cream = Color(0xFFFFF8F0);
   static const Color muted = Color(0xFF8A6F78);
   static const Color blush = Color(0xFFF6D5DB);
